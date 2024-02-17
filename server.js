@@ -24,4 +24,4 @@ socket.on('callUser',(data)=>{
 socket.on('answerCall',)
 
 
-server.listen(5000,()=> console.log("serveris running on a port 5000"))
+server.listen(5000,()=> console.log("server   is running on a port 5000"))
